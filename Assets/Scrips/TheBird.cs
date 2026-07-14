@@ -9,9 +9,12 @@ public class TheBird : MonoBehaviour
     public LogicScript logic;
     public bool birdIsAlive = true;
 
+    public Animator animator;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        animator = GetComponent<Animator>();
         logic = GameObject.FindGameObjectWithTag("Logic").GetComponent<LogicScript>();
     }
 
@@ -21,6 +24,7 @@ public class TheBird : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Space) == true && birdIsAlive == true)
         {
             myRigidbody.linearVelocity = Vector2.up * flapStrength;
+            animator.SetTrigger("SpaceBar");
         }
         
 
@@ -28,6 +32,7 @@ public class TheBird : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
+        animator.SetTrigger("GotHit");
         logic.gameOver();
         birdIsAlive = false;
     }
