@@ -9,6 +9,7 @@ public class TheBird : MonoBehaviour
     public float flapStrength;
     public LogicScript logic;
     public bool birdIsAlive = true;
+    public float DeadZone = -25;
 
     public Animator animator;
 
@@ -26,6 +27,12 @@ public class TheBird : MonoBehaviour
         {
             myRigidbody.linearVelocity = Vector2.up * flapStrength;
             animator.SetTrigger("SpaceBar");
+        }
+
+        if (transform.position.y < DeadZone)
+        {
+            logic.gameOver();
+            birdIsAlive = false;
         }
     }
 

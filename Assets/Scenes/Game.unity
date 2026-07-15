@@ -1060,6 +1060,7 @@ MonoBehaviour:
   flapStrength: 16
   logic: {fileID: 56036693}
   birdIsAlive: 1
+  DeadZone: -25
   animator: {fileID: 851775219}
 --- !u!58 &851775218
 CircleCollider2D:
