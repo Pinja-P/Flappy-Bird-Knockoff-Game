@@ -5,12 +5,12 @@ using System.Collections.Generic;
 public class PipeMiddleTrigger : MonoBehaviour
 {
 
-    public LogicScript logic;
+    
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        logic = GameObject.FindGameObjectWithTag("Logic").GetComponent<LogicScript>();
+
     }
 
     // Update is called once per frame
@@ -19,12 +19,15 @@ public class PipeMiddleTrigger : MonoBehaviour
         
     }
 
+    // If bird passes between pipes increase score
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.gameObject.layer == 3)
         {
-            logic.addScore(1);
+            //  logic.Instance addScore(1);
+            LogicScript.Instance.addScore(1);
         }
-        
+
     }
+
 }

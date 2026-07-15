@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SocialPlatforms.Impl;
 
 public class TheBird : MonoBehaviour
 {
@@ -26,14 +27,17 @@ public class TheBird : MonoBehaviour
             myRigidbody.linearVelocity = Vector2.up * flapStrength;
             animator.SetTrigger("SpaceBar");
         }
-        
-
     }
 
+    // When bird hits a pipe
     private void OnCollisionEnter2D(Collision2D collision)
     {
+        // Changes to dead animation picture
         animator.SetTrigger("GotHit");
         logic.gameOver();
         birdIsAlive = false;
+     
     }
+
+
 }
