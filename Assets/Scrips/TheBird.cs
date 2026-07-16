@@ -9,28 +9,31 @@ public class TheBird : MonoBehaviour
     public float flapStrength;
     public LogicScript logic;
     public bool birdIsAlive = true;
-    public float DeadZone = -25;
+    public float DeadZoneBelow = -25;
+    public float DeadZoneAbove = 25;
 
     public Animator animator;
 
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    
     void Start()
     {
         animator = GetComponent<Animator>();
         logic = GameObject.FindGameObjectWithTag("Logic").GetComponent<LogicScript>();
     }
 
-    // Update is called once per frame
+    
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.Space) == true && birdIsAlive == true)
         {
             myRigidbody.linearVelocity = Vector2.up * flapStrength;
             animator.SetTrigger("SpaceBar");
+            AudioManager.Instance.PlaySFX("Flap");
         }
 
-        if (transform.position.y < DeadZone)
+        if (birdIsAlive == true && transform.position.y < DeadZoneBelow || transform.position.y > DeadZoneAbove)
         {
+            animator.SetTrigger("GotHit");
             logic.gameOver();
             birdIsAlive = false;
         }
@@ -39,10 +42,13 @@ public class TheBird : MonoBehaviour
     // When bird hits a pipe
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        // Changes to dead animation picture
-        animator.SetTrigger("GotHit");
-        logic.gameOver();
-        birdIsAlive = false;
+        if (birdIsAlive == true)
+        {
+            // Changes to dead animation picture
+            animator.SetTrigger("GotHit");
+            logic.gameOver();
+            birdIsAlive = false;
+        }
      
     }
 

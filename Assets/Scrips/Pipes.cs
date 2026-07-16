@@ -11,6 +11,7 @@ public class Pipes : MonoBehaviour
     public float spawnRate = 4;
     private float timer = 0;
     public float heightOffset = 15;
+    //public float randomTimer = Random.Range (-3f, 3f);
     
     void Start()
     {

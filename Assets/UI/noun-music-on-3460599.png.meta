@@ -1,0 +1,975 @@
+fileFormatVersion: 2
+guid: cd62ae1817fa3874285c00e7d30a797e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4994798619366820422
+    second: noun-music-on-3460599_0
+  - first:
+      213: -396315946363616278
+    second: noun-music-on-3460599_1
+  - first:
+      213: 5852406260152279749
+    second: noun-music-on-3460599_2
+  - first:
+      213: 3120828873563949750
+    second: noun-music-on-3460599_3
+  - first:
+      213: -2500737032580890367
+    second: noun-music-on-3460599_4
+  - first:
+      213: -5942752400117673538
+    second: noun-music-on-3460599_5
+  - first:
+      213: 695229342415799058
+    second: noun-music-on-3460599_6
+  - first:
+      213: -2311008385617355765
+    second: noun-music-on-3460599_7
+  - first:
+      213: -2148595962449422844
+    second: noun-music-on-3460599_8
+  - first:
+      213: -3458115656599109283
+    second: noun-music-on-3460599_9
+  - first:
+      213: 7858041321014577415
+    second: noun-music-on-3460599_10
+  - first:
+      213: 3063948609553482888
+    second: noun-music-on-3460599_11
+  - first:
+      213: -5818877934167737058
+    second: noun-music-on-3460599_12
+  - first:
+      213: 7867998382924469559
+    second: noun-music-on-3460599_13
+  - first:
+      213: 7310397547393644206
+    second: noun-music-on-3460599_14
+  - first:
+      213: -8707558606986159846
+    second: noun-music-on-3460599_15
+  - first:
+      213: -4799244040307272277
+    second: noun-music-on-3460599_16
+  - first:
+      213: 4891414466744333972
+    second: noun-music-on-3460599_17
+  - first:
+      213: -4075039238541703872
+    second: noun-music-on-3460599_18
+  - first:
+      213: -8436544477780325187
+    second: noun-music-on-3460599_19
+  - first:
+      213: 8147684429544138265
+    second: noun-music-on-3460599_20
+  - first:
+      213: 4534985949869717375
+    second: noun-music-on-3460599_21
+  - first:
+      213: 5121285030442908563
+    second: noun-music-on-3460599_22
+  - first:
+      213: -1398203124025683747
+    second: noun-music-on-3460599_23
+  - first:
+      213: 8797379493110349211
+    second: noun-music-on-3460599_24
+  - first:
+      213: 4682510059351207874
+    second: noun-music-on-3460599_25
+  - first:
+      213: 50402251982468667
+    second: noun-music-on-3460599_26
+  - first:
+      213: -7584107924318766791
+    second: noun-music-on-3460599_27
+  - first:
+      213: 44098217127545477
+    second: noun-music-on-3460599_28
+  - first:
+      213: -4828393081161262229
+    second: noun-music-on-3460599_29
+  - first:
+      213: -4692763903973874957
+    second: noun-music-on-3460599_30
+  - first:
+      213: 2440416596017685620
+    second: noun-music-on-3460599_31
+  - first:
+      213: 3032855117535413155
+    second: noun-music-on-3460599_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: noun-music-on-3460599_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 99
+        width: 508
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a88f771e6115540800000000000000
+      internalID: 4994798619366820422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun-music-on-3460599_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 67
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae38c2e1fb0008af0800000000000000
+      internalID: -396315946363616278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun-music-on-3460599_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 67
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c226a97c7ce73150800000000000000
+      internalID: 5852406260152279749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun-music-on-3460599_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 67
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bacf8d53596f4b20800000000000000
+      internalID: 3120828873563949750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun-music-on-3460599_4
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 67
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1010a581be89b4dd0800000000000000
+      internalID: -2500737032580890367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun-music-on-3460599_5
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 67
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1d2ea9d2a178da0800000000000000
+      internalID: -5942752400117673538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun-music-on-3460599_6
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 67
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2134f184763f5a900800000000000000
+      internalID: 695229342415799058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun-music-on-3460599_7
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 67
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c14561e16adefd0800000000000000
+      internalID: -2311008385617355765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun-music-on-3460599_8
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 62
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4061d5c1b57ae22e0800000000000000
+      internalID: -2148595962449422844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun-music-on-3460599_9
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 67
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d518138d12e4200d0800000000000000
+      internalID: -3458115656599109283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun-music-on-3460599_10
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 67
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7094a61a2fe5d0d60800000000000000
+      internalID: 7858041321014577415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun-music-on-3460599_11
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 67
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884cc72e605558a20800000000000000
+      internalID: 3063948609553482888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun-music-on-3460599_12
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 67
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1db29e39513f3fa0800000000000000
+      internalID: -5818877934167737058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun-music-on-3460599_13
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 67
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7359f83c7deb03d60800000000000000
+      internalID: 7867998382924469559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun-music-on-3460599_14
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 67
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6f84356dfb37560800000000000000
+      internalID: 7310397547393644206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun-music-on-3460599_15
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 67
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19d1b1e499882780800000000000000
+      internalID: -8707558606986159846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun-music-on-3460599_16
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 67
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5131b09f8a56db0800000000000000
+      internalID: -4799244040307272277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun-music-on-3460599_17
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 67
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496b08baa8bc1e340800000000000000
+      internalID: 4891414466744333972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun-music-on-3460599_18
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 67
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04581fc276d8277c0800000000000000
+      internalID: -4075039238541703872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun-music-on-3460599_19
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 67
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbcce160f7f5bea80800000000000000
+      internalID: -8436544477780325187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun-music-on-3460599_20
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 41
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916a5f402d3621170800000000000000
+      internalID: 8147684429544138265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun-music-on-3460599_21
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 41
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f773f5ba1b18fee30800000000000000
+      internalID: 4534985949869717375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun-music-on-3460599_22
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 41
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b3319f995721740800000000000000
+      internalID: 5121285030442908563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun-music-on-3460599_23
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 41
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd09b9caaa5989ce0800000000000000
+      internalID: -1398203124025683747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun-music-on-3460599_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 41
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9df529d902961a70800000000000000
+      internalID: 8797379493110349211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun-music-on-3460599_25
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 41
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf62d8071e9bf040800000000000000
+      internalID: 4682510059351207874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun-music-on-3460599_26
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 41
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b367b45c49013b000800000000000000
+      internalID: 50402251982468667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun-music-on-3460599_27
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 41
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93931c07606dfb690800000000000000
+      internalID: -7584107924318766791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun-music-on-3460599_28
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 41
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a8d17481bac9000800000000000000
+      internalID: 44098217127545477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun-music-on-3460599_29
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 36
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6bdd69131a1efcb0800000000000000
+      internalID: -4828393081161262229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun-music-on-3460599_30
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 41
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2acd8b714ffdeb0800000000000000
+      internalID: -4692763903973874957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun-music-on-3460599_31
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 41
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4742a95d6f91ed120800000000000000
+      internalID: 2440416596017685620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noun-music-on-3460599_32
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 41
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a38cef19add61a20800000000000000
+      internalID: 3032855117535413155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      noun-music-on-3460599_0: 4994798619366820422
+      noun-music-on-3460599_1: -396315946363616278
+      noun-music-on-3460599_10: 7858041321014577415
+      noun-music-on-3460599_11: 3063948609553482888
+      noun-music-on-3460599_12: -5818877934167737058
+      noun-music-on-3460599_13: 7867998382924469559
+      noun-music-on-3460599_14: 7310397547393644206
+      noun-music-on-3460599_15: -8707558606986159846
+      noun-music-on-3460599_16: -4799244040307272277
+      noun-music-on-3460599_17: 4891414466744333972
+      noun-music-on-3460599_18: -4075039238541703872
+      noun-music-on-3460599_19: -8436544477780325187
+      noun-music-on-3460599_2: 5852406260152279749
+      noun-music-on-3460599_20: 8147684429544138265
+      noun-music-on-3460599_21: 4534985949869717375
+      noun-music-on-3460599_22: 5121285030442908563
+      noun-music-on-3460599_23: -1398203124025683747
+      noun-music-on-3460599_24: 8797379493110349211
+      noun-music-on-3460599_25: 4682510059351207874
+      noun-music-on-3460599_26: 50402251982468667
+      noun-music-on-3460599_27: -7584107924318766791
+      noun-music-on-3460599_28: 44098217127545477
+      noun-music-on-3460599_29: -4828393081161262229
+      noun-music-on-3460599_3: 3120828873563949750
+      noun-music-on-3460599_30: -4692763903973874957
+      noun-music-on-3460599_31: 2440416596017685620
+      noun-music-on-3460599_32: 3032855117535413155
+      noun-music-on-3460599_4: -2500737032580890367
+      noun-music-on-3460599_5: -5942752400117673538
+      noun-music-on-3460599_6: 695229342415799058
+      noun-music-on-3460599_7: -2311008385617355765
+      noun-music-on-3460599_8: -2148595962449422844
+      noun-music-on-3460599_9: -3458115656599109283
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
