@@ -86,6 +86,7 @@ public class UIManager : MonoBehaviour
     public void MusicVolume()
     {
         AudioManager.Instance.MusicVolume(_musicSlider.value);
+        
     }
 
     public void SFXVolume()
@@ -95,8 +96,30 @@ public class UIManager : MonoBehaviour
 
     public void OpenMenu()
     {
+        _musicSlider.value = AudioManager.Instance.musicSource.volume;
+        _sfxSlider.value = AudioManager.Instance.sfxSource.volume;
+        Debug.Log(AudioManager.Instance.musicSource.volume);
         Time.timeScale = 0f;
         settingsMenu.SetActive(true);
+
+        if (AudioManager.Instance.musicSource.mute)
+        {
+            musicButton.image.sprite = musicMuteSprite;
+        }
+        else
+        {
+            musicButton.image.sprite = musicSprite;
+        }
+
+        if (AudioManager.Instance.sfxSource.mute)
+        {
+            sfxButton.image.sprite = sfxMuteSprite;
+        }
+        else
+        {
+            sfxButton.image.sprite = sfxSprite;
+        }
+
     }
 
     public void CloseMenu()
